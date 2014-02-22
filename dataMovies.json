@@ -1,0 +1,28 @@
+{
+    "myMovies": [
+        {
+            "title": "Forrest Gump",
+            "releaseYear": 1994,
+            "rating": 5,
+            "haveSeen": true
+        },
+        {
+            "title": "Captain Phillips",
+            "releaseYear": 2013,
+            "rating": 2,
+            "haveSeen": false
+        },
+        {
+            "title": "Life is Beautiful",
+            "releaseYear": 1993,
+            "rating": 1,
+            "haveSeen": true
+        },
+        {
+            "title": "Pirates of the Carribean",
+            "releaseYear": 2011,
+            "rating": 3,
+            "haveSeen": true
+        }
+    ]
+}
